@@ -1,3 +1,4 @@
+# Entry text is checked against the competition's 120-character cap.
 """Fortune-cookie entry: writes one line to <MAKEFUN_OUTPUT_DIR or /output>/entry.txt."""
 
 import os
